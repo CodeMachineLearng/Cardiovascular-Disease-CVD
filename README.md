@@ -4,10 +4,12 @@
 Cardiovascular diseases are the leading cause of death globally. To identify the causes and to develop a system to predict heart attack in an effective manner is necessary. The presented data has all information about all the relevant factors that might have an impact on heart health. The data needs to be explained in detail for any further analysis.
 
 #1.Preliminary analysis:
+     
      1.Perform preliminary data inspection and report the findings as the structure of the data, missing values, duplicates etc.
      2.Based on the findings from the previous question remove duplicates (if any) , treat missing values using appropriate strategy.
 
 #2.Prepare an informative report about the data explaining distribution of the disease and the related factors. You could use the below approach to achieve the objective
+     
      1.Get a preliminary statistical summary of the data. Explore the measures of central tendencies and the spread of the data overall.
      2.Identify the data variables which might be categorical in nature. Describe and explore these variables using appropriate tools e.g. count plot
      3.Study the occurrence of CVD across Age.
